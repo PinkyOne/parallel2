@@ -1,0 +1,14 @@
+c0 1
+c1 1
+c2 1
+c3 1
+c4 1
+c5 1
+nA 1 c0 a c1 a
+nB 1 c0 b c2 a
+nC 1 c0 c c5 a
+nD 1 c1 b c2 a
+nE 1 c2 b c3 a
+nF 1 c3 b c5 b
+nG 1 c3 c c4 a
+nH 1 c4 b c5 c

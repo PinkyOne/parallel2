@@ -1,0 +1,9 @@
+c1 1
+c2 1
+c3 1
+c4 3
+c5 1
+c6 1
+c7 1
+netA 1 c1 a c2 a c3 a 
+netB 1 c5 b c6 b c7 b
